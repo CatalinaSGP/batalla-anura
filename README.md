@@ -14,7 +14,7 @@
       <li class="nav-item">
         <a class="nav-link" href="#">Tablero de nenufar</a>
       </li>
-       <li><a href="https://www.figma.com/proto/hDCqnAWUnMGADutu2dF3U9/Untitled?node-id=433%3A376&scaling=scale-down-width">Sapo saltarin</a></li>
+       <li><a href="rana.html">Sapo saltarin</a></li>
         </li>
         <li class="nav-item">
         <a class="nav-link" href="#">Sapo saltarin</a>
