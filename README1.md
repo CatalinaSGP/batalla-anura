@@ -18,8 +18,7 @@
         <a class="nav-link" href="#">Rana saltarina</a>
       </li>
         <li class="nav-item">
-        <a class="nav-link" href="#">Sapo saltarin</a>
-            <li><a href="https://eadpucv.github.io/pix/">¿QUÉ ES PiX?</a></li>
+        <li><a href="https://www.figma.com/proto/hDCqnAWUnMGADutu2dF3U9/Untitled?node-id=433%3A376&scaling=scale-down-width">Sapo saltarin</a></li>
       </li>
         <li class="nav-item">
         <a class="nav-link" href="#">Flor de loto</a>
