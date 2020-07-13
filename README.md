@@ -15,10 +15,10 @@
       <a href="nenufar.html>Tablero Nenufar</a></li>
       </li>
        <li>
-      <a href="rana.html>Rana saltarin</a></li>
+      <a href="rana.html>Rana saltarina</a></li>
         </li>
         <li>
-      <a href="sapo.html>Sapo saltarina</a></li>
+      <a href="sapo.html>Sapo saltarin</a></li>
       </li>
         <li>
       <a href="flor.html>Flor de loto</a></li>
