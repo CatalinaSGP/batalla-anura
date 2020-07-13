@@ -11,16 +11,13 @@
       <li class="nav-item active">
         <a class="nav-link" href="#">Batalla Anura</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Tablero de nenufar</a>
+      <li><a href="nenufar.html>Tablero Nenufar</a></li>
       </li>
-       <li><a href="rana.html">Sapo saltarin</a></li>
+       <li><a href="rana.html>Rana saltarin</a></li>
         </li>
-        <li class="nav-item">
-        <a class="nav-link" href="#">Sapo saltarin</a>
+        <li><a href="sapo.html>Sapo saltarina</a></li>
       </li>
-        <li class="nav-item">
-        <a class="nav-link" href="#">Flor de loto</a>
+        <li><a href="flor.html>Flor de loto</a></li>
       </li>
     </ul>
   </div>
