@@ -11,9 +11,7 @@
       <li class="nav-item active">
         <a class="nav-link" href="#">Batalla Anura</a>
       </li>
-      <li>
-      <a href="nenufar.html>Tablero Nenufar</a>
-      </li>
+     <li href="nenufar.html>Tablero Nenufar></li>
        <li>
       <a href="rana.html>Rana saltarina</a>
         </li>
