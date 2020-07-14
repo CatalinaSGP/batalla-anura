@@ -18,7 +18,6 @@ Proyecto "Batalla Anura" Taller de Diseño de Interacción 2020 e[ad] PUCV
         <li><a href="flor.html">Flor de loto</a></li>
     </ul>
   </div>
-</nav>
     <body> 
       <h2>¡Sigue nuestro paso a paso!</h2> 
       <img src="Paso a paso rana anura.jpg" alt="W3Schools.com" width="1200" height="600">
